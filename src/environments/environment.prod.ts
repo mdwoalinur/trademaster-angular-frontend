@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: '/api'
+  apiUrl: 'https://trademaster-spring-boot-backend.onrender.com/api'
 };
