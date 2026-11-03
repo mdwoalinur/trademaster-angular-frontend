@@ -16,8 +16,6 @@ Angular frontend for the **TradeMaster Inventory and Stock Management System**.
 
 **TradeMaster is deployed and accessible online.**
 
-**Official IsDB-BISEW Project Showcase:** [View TradeMaster — Inventory & Stock Management System](https://www.isdb-bisew.org/it-scholarship-programme/500/Project-Name---Inventory-%26-Stock-Management-System)
-
 | Service | Platform | Link |
 |---|---|---|
 | Frontend | Vercel | [Live Application](https://trademaster-angular-frontend.vercel.app/login) |
